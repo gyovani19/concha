@@ -1,2 +1,2 @@
 # concha
-Este repositório contém scripts que automatizam o processamento de PDFs de laudos cadavéricos, aplicando OCR (Reconhecimento Óptico de Caracteres) e extraindo informações específicas para análise. A solução é dividida em duas etapas principais: a aplicação de OCR para converter PDFs para extração desses textos para um arquivo CSV.
+Este repositório contém uma coleção diversificada de scripts Bash, cada um projetado para realizar tarefas específicas de administração de sistemas, manipulação de arquivos, monitoramento de recursos e automação de processos. Esses scripts são ferramentas úteis para desenvolvedores, administradores de sistemas e qualquer pessoa que precise automatizar tarefas repetitivas no ambiente Unix/Linux.
